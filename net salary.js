@@ -16,3 +16,5 @@ console.log("NSSF Deduction: " + nssf);
 console.log("NHIF Deduction: " + nhif);
 console.log("Tax (PAYE): " + tax);
 console.log("Net Salary: " + netSalary);
+
+   
